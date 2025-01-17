@@ -1,0 +1,12 @@
+**/application.properties
+.idea/
+*.iml
+*.iws
+*.ipr
+
+target/
+out/
+build/
+
+.DS_Store
+Thumbs.db
